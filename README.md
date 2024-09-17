@@ -1,4 +1,4 @@
-# Неофициальный перевод компендиумов из Core Rulebook для системы Fallout Roleplaying Game
+# Неофициальный перевод компендиумов из Core Rulebook для системы Fallout 2d20
 
 ![image](https://github.com/user-attachments/assets/56c6e796-826c-4313-bd55-f7ce55cc96d2)
 
