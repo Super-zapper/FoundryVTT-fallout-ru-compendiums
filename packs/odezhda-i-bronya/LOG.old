@@ -1,0 +1,8 @@
+2024/09/17-03:26:30.915 32ec Recovering log #219
+2024/09/17-03:26:30.917 32ec Delete type=0 #219
+2024/09/17-03:26:30.917 32ec Delete type=3 #217
+2024/09/17-03:40:56.535 12ac Level-0 table #224: started
+2024/09/17-03:40:56.535 12ac Level-0 table #224: 0 bytes OK
+2024/09/17-03:40:56.536 12ac Delete type=0 #222
+2024/09/17-03:40:56.538 12ac Manual compaction at level-0 from '!folders!176Oq05QvOKBoPuA' @ 72057594037927935 : 1 .. '!items.effects!Mfgi1OgjnrIm0BFV.R3t57Eh5X78SHroF' @ 0 : 0; will stop at (end)
+2024/09/17-03:40:56.538 12ac Manual compaction at level-1 from '!folders!176Oq05QvOKBoPuA' @ 72057594037927935 : 1 .. '!items.effects!Mfgi1OgjnrIm0BFV.R3t57Eh5X78SHroF' @ 0 : 0; will stop at (end)

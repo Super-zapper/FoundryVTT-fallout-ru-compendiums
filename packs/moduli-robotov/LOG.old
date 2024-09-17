@@ -1,0 +1,8 @@
+2024/09/17-03:26:30.867 1828 Recovering log #212
+2024/09/17-03:26:30.870 1828 Delete type=0 #212
+2024/09/17-03:26:30.870 1828 Delete type=3 #210
+2024/09/17-03:40:56.528 12ac Level-0 table #217: started
+2024/09/17-03:40:56.529 12ac Level-0 table #217: 0 bytes OK
+2024/09/17-03:40:56.529 12ac Delete type=0 #215
+2024/09/17-03:40:56.533 12ac Manual compaction at level-0 from '!items!J6X12IWC3TuYbb64' @ 72057594037927935 : 1 .. '!items!vDsRqWBeKLVgq57P' @ 0 : 0; will stop at (end)
+2024/09/17-03:40:56.533 12ac Manual compaction at level-1 from '!items!J6X12IWC3TuYbb64' @ 72057594037927935 : 1 .. '!items!vDsRqWBeKLVgq57P' @ 0 : 0; will stop at (end)
