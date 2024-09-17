@@ -1,0 +1,212 @@
+{
+  "id": "FoundryVTT-fallout-ru-compendiums",
+  "title": "Fallout 2d20 Compendiums Russian Translations",
+  "version": "1.0.0",
+  "compatibility": {
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "boepripasy",
+      "label": "Боеприпасы",
+      "path": "packs/boepripasy",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bolezni",
+      "label": "Болезни",
+      "path": "packs/bolezni",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cherty",
+      "label": "Черты",
+      "path": "packs/cherty",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "knigi-i-zhurnaly",
+      "label": "Книги и Журналы",
+      "path": "packs/knigi-i-zhurnaly",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "moduli-robotov",
+      "label": "Модули Роботов",
+      "path": "packs/moduli-robotov",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "mody-odezhdy-i-broni",
+      "label": "Моды Одежды и Брони",
+      "path": "packs/mody-odezhdy-i-broni",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "mody-oruzhiya",
+      "label": "Моды Оружия",
+      "path": "packs/mody-oruzhij",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navyki",
+      "label": "Навыки",
+      "path": "packs/navyki",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "nip",
+      "label": "НИП",
+      "path": "packs/nip",
+      "type": "Actor",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "odezhda-i-bronya",
+      "label": "Одежда и Броня",
+      "path": "packs/odezhda-i-bronya",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "oruzhie",
+      "label": "Оружие",
+      "path": "packs/oruzhie",
+      "type": "Item",
+      "system": "fallout",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "perki-sposobnosti",
+      "label": "Перки (Способности)",
+      "path": "packs/perki-sposobnosti",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "fallout"
+    },
+    {
+      "name": "prochee",
+      "label": "Прочее",
+      "path": "packs/prochee",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "fallout"
+    },
+    {
+      "name": "rashodnye-materialy",
+      "label": "Расходные Материалы",
+      "path": "packs/rashodnye-materialy",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "fallout"
+    },
+    {
+      "name": "tablicy-dobychi",
+      "label": "Таблицы Добычи",
+      "path": "packs/tablicy-dobychi",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "fallout"
+    },
+    {
+      "name": "zavisimosti",
+      "label": "Зависимости",
+      "path": "packs/zavisimosti",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "fallout"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Fallout RPG RU",
+      "sorting": "m",
+      "packs": [
+        "boepripasy",
+        "bolezni",
+		"cherty",
+		"knigi-i-zhurnaly",
+		"moduli-robotov",
+		"mody-odezhdy-i-broni",
+		"mody-oruzhiya",
+		"navyki",
+		"nip",
+		"odezhda-i-bronya",
+		"oruzhie",
+		"perki-sposobnosti",
+		"prochee",
+		"rashodnye-materialy",
+		"tablicy-dobychi",
+		"zavisimosti"
+      ],
+      "color": null,
+      "folders": []
+    }
+  ]
+}
