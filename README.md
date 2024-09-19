@@ -6,6 +6,13 @@
 
 Перевод выше я редактировал на своё усмотрение (почти все изменения я выделил красным) и в результате источником для терминологии послужил этот вариант перевода: https://docs.google.com/document/d/1de8FzlD4_-I4cKiTrrvd1AETVZCjZg_d/edit?usp=drive_link&ouid=102399268789017924160&rtpof=true&sd=true
 
+## Установка
+
+1. Скопируйте эту ссылку: https://raw.githubusercontent.com/Super-zapper/FoundryVTT-fallout-ru-compendiums/main/module.json
+2. Вставьте сюда и нажмите "Установка"
+   
+![image](https://github.com/user-attachments/assets/4c487dc9-d6c1-4de8-9f95-7417d56203bd) 
+
 ## Описание некоторых предметов содержит ссылки. Для того, чтобы они работали необходимо:
 
 1. Создать копию компендиума
